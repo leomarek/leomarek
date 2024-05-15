@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats-ten-ashy-41.vercel.app/api?username=leomarek&show_icons=true&hide_rank=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-ten-ashy-41.vercel.app/api/top-langs/?username=leomarek&theme=dracula&layout=pie&size_weight=0.4&count_weight=0.6&exclude_repo=music-genre-prediction,rinseandreciept)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-ashy-41.vercel.app/api/top-langs/?username=leomarek&theme=dracula&layout=pie&size_weight=0.3&count_weight=0.7&)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **leomarek/leomarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
