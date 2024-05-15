@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomarek)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomarek&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ten-ashy-41.vercel.app/api?username=leomarek)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ten-ashy-41.vercel.app/api/top-langs/?username=leomarek&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **leomarek/leomarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
