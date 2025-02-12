@@ -1,5 +1,4 @@
-### Hi there, I'm Leo Marek! 👋
-I am a student at Rice University studying computer science as well as electrical and computer engineering. I am passionate about software engineering, data science, machine learning, embedded systems, and the intersection between hardware and software design. When I am not busy at school or working on projects I am passionate about the outdoors as I am an advanced downhill skier, sailor, experienced backpacker, and mountain biker.
+### Hi there, I'm <a href="https://leo.rice.edu">Leo Marek!</a>
 
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
