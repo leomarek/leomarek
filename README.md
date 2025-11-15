@@ -16,7 +16,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=leomarek&show_icons=true](https://github-readme-stats-ten-ashy-41.vercel.app/api/top-langs/?        username=leomarek&theme=dracula&layout=pie&size_weight=0.3&count_weight=0.7&)"
+    srcset="[https://github-readme-stats.vercel.app/api?username=leomarek&show_icons=true](https://github-readme-stats-ten-ashy-41.vercel.app/api/top-langs/?        username=leomarek&theme=dracula&layout=pie&size_weight=0.5&count_weight=0.5&)"
     media="(prefers-color-scheme: dark)"
   />
 </picture>
